@@ -13,15 +13,15 @@
     <section>
       <h2>Seção 2 - JavaScript básico</h2>
       <ul>
-        <li><p> Aula 2 - </p></li>
-        <li><p> Aula 3 - </p></li>
-        <li><p> Aula 4 - </p></li>
-        <li><p> Aula 5 - </p></li>
-        <li><p> Aula 6 - </p></li>
-        <li><p> Aula 7 - </p></li>
-        <li><p> Aula 8 - </p></li>
-        <li><p> Aula 9 - </p></li>
-        <li><p> Aula 10 - </p></li>
+        <li><p> Aula 2 - Console.log.</p></li>
+        <li><p> Aula 3 - Console.log.</p></li>
+        <li><p> Aula 4 - Comentários.</p></li>
+        <li><p> Aula 5 - Alert.</p></li>
+        <li><p> Aula 6 - Criação de váriaveis.</p></li>
+        <li><p> Aula 7 - Criação de constantes.</p></li>
+        <li><p> Aula 8 - Calculando IMC.</p></li>
+        <li><p> Aula 9 - Váriaveis.</p></li>
+        <li><p> Aula 10 - Váriaveis e constantes. </p></li>
       </ul>
     </section>
     <section>
