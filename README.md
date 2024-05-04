@@ -66,7 +66,7 @@
         <li><p> Aula 4 - Escopo léxico.</p></li>
         <li><p> Aula 5 - Clousers.</p></li>
         <li><p> Aula 6 - Callback.</p></li>
-        <li><p> Aula 7 - Fução imeddiata.</p></li>
+        <li><p> Aula 7 - Fução imediata.</p></li>
         <li><p> Aula 8 - Factory function (Função fabrica) e construtor function (Função construtora).</p></li>
         <li><p> Aula 9 - Calculadora.</p></li>
         <li><p> Aula 10 - Função construtora.</p></li>
