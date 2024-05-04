@@ -70,6 +70,7 @@
         <li><p> Aula 8 - Factory function (Função fabrica) e construtor function (Função construtora).</p></li>
         <li><p> Aula 9 - Calculadora.</p></li>
         <li><p> Aula 10 - Função construtora.</p></li>
+        <li><p> Aula 11 - Calculadora com função construtora</p></li>
      </ul>
    </section>  
    <section>
