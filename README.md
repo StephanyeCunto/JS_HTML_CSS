@@ -76,6 +76,19 @@
      </ul>
    </section>  
    <section>
+     <h2>Seção 5 - Arrays (Avançado)</h2>
+     <ul>
+       <li><p> Aula 1 - Revisão do básico em arrays.</p></li>
+       <li><p> Aula 2 - Método splice.</p></li>
+       <li><p> Aula 3 - Concatenando arrays.</p></li>
+       <li><p> Aula 4 - Filter - Filtrando o array.</p></li>
+       <li><p> Aula 5 - Map - Mapeando o array.</p></li>
+       <li><p> Aula 6 - Reduce - Reuzindo o array.</p></li>
+       <li><p> Aula 7 - Filter + Map + Reduce.</p></li>
+       <li><p> Aula 8 - forEach.</p></li>
+     </ul>
+   </section>
+   <section>
      <h2>Seção 33 - HTML e CSS básico</h2>
      <ul>
         <li><p> Aula 1 - Centralizando uma div.</p></li>
