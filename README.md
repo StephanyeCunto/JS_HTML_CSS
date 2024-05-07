@@ -98,12 +98,11 @@
        <li><p> Aula 5 - Prototypes</p></li>
        <li><p> Aula 6 - Manipulando Prototypes</p></li>
        <li><p> Aula 7 - Herança</p></li>
-       <li><p> Aula 8 - Herança?</p></li>
-       <li><p> Aula 9 - Exercício - Validando um CPF (Algoritmo)</p></li>
-       <li><p> Aula 10 - Exercício - Validando um CPF (Solução)</p></li>
-       <li><p> Aula 11 - Polimorfismo</p></li>
-       <li><p> Aula 12 - Factory Functions + Prototypes</p></li>
-       <li><p> Aula 13 - Objeto Map()</p></li>
+       <li><p> Aula 8 - Exercício - Validando um CPF (Algoritmo)</p></li>
+       <li><p> Aula 9 - Exercício - Validando um CPF (Solução)</p></li>
+       <li><p> Aula 10 - Polimorfismo</p></li>
+       <li><p> Aula 11 - Factory Functions + Prototypes</p></li>
+       <li><p> Aula 12 - Objeto Map()</p></li>
      </ul>
    </section>
    <section>
