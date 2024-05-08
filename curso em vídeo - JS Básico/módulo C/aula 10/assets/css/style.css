@@ -1,0 +1,22 @@
+
+*{
+    font: normal 20pt Arial;
+}
+
+div#area{
+    background-color: rgb(42,139,42);
+    color: white;
+    width: 200px;
+    height: 200px;
+    line-height: 200px;
+    text-align: center;
+}
+
+input, label{
+    margin: 15px 0px;
+    font-size: 18pt;
+}
+
+h1{
+    font-size: 22pt;
+}
