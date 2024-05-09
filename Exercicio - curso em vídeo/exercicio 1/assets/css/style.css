@@ -1,0 +1,64 @@
+body{
+    background-color: rgb(70,142,236);
+    font: normal 10pt Arial;
+}
+
+header{
+    color: white;
+    text-align: center;
+}
+
+section{
+    background-color: white;
+    border-radius: 10px;
+    max-width: 500px;
+    margin:0 auto;
+    box-shadow: 5px 5px 10px rgb(0,0,0,0.363);
+}
+
+p{
+    font-size: 15pt;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    width: auto;
+    height: auto;
+}
+
+img{
+    max-width: 400px;
+    max-height: 400px;
+}
+
+div{
+    text-align: center;
+    padding: 8px;
+    display: block;
+}
+
+footer{
+    color: white;
+    text-align: center;
+    font-size: italic;
+}
+
+@media (max-width:450px){
+    img{
+        max-width: 350px;
+        max-height: 350px;
+    }
+}
+
+@media (max-width:380px){
+    img{
+        max-width: 300px;
+        max-height: 300px;
+    }
+}
+
+@media (max-width:330px){
+    img{
+        max-width: 150px;
+        max-height: 150px;
+    }
+}
+
+
