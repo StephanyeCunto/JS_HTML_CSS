@@ -47,8 +47,8 @@
         <li><p> Aula 18 - Alterando elementos do html com js, e usando for.</p></li>
         <li><p> Aula 19 - While e do while.</p></li>
         <li><p> Aula 20 - Imprimindo vetor.</p></li>
-        <li><p> Aula 21 - Macro.</p></li>
-        <li><p> Aula 22 - Macro.</p></li>
+        <li><p> Aula 21 - Arrow function.</p></li>
+        <li><p> Aula 22 - Arrow function.</p></li>
         <li><p> Aula 23 - Exercício fizzBuzz.</p></li>
         <li><p> Aula 24 - Realizando soma e verificando se a entra é um número.</p></li>  
         <li><p> Aula 25 - Try e catch.</p></li>
