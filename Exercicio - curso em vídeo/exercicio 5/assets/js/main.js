@@ -44,7 +44,7 @@ function finalizar(){
     if(verificaVetor(tamanho)){
         let div=document.getElementById('finalizar') 
 
-       verificaxistenciaTexto(div)
+       verificaExistenciaTexto(div)
 
         let tamanhoTexto=`Ao todo, temos ${tamanho} números cadastrados.`
         criarParagrafo(tamanhoTexto,div)
@@ -69,7 +69,7 @@ function finalizar(){
     }
 }
 
-function verificaxistenciaTexto(div){
+function verificaExistenciaTexto(div){
 
     while(div.childElementCount!=0){
         div.removeChild(div.firstChild)
