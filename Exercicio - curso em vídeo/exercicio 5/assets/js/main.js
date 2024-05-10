@@ -42,32 +42,42 @@ function finalizar(){
     const verificaVetor=(tamanho)=>tamanho>0 ? true : false
 
     if(verificaVetor(tamanho)){
+        let div=document.getElementById('finalizar') 
+
+       verificaxistenciaTexto(div)
+
         let tamanhoTexto=`Ao todo, temos ${tamanho} números cadastrados.`
-        criarParagrafo(tamanhoTexto)
+        criarParagrafo(tamanhoTexto,div)
 
         let maior=vetor.reduce((acumulador,vetor)=>vetor>acumulador ? vetor : acumulador,0)
         let maiorTexto=`O maior valor informado foi ${maior}.`
-        criarParagrafo(maiorTexto)
+        criarParagrafo(maiorTexto,div)
 
         let menor=vetor.reduce((acumulador,vetor)=>acumulador>vetor ? vetor : acumulador)
         let menorTexto=`O menor valor informado foi ${menor}`
-        criarParagrafo(menorTexto)
+        criarParagrafo(menorTexto,div)
 
         let soma=vetor.reduce((acumulador,vetor)=>acumulador=acumulador+vetor,0)
         let somaTexto=`Somando todos os valores, temos ${soma}.`
-        criarParagrafo(somaTexto)
+        criarParagrafo(somaTexto,div)
 
         let media=(soma/tamanho)
         let mediaTexto=`A média dos valores digitados é ${media}.`
-        criarParagrafo(mediaTexto)
+        criarParagrafo(mediaTexto,div)
     }else{
         alert('Por favor adicione um número.')
     }
 }
 
+function verificaxistenciaTexto(div){
 
-function criarParagrafo(texto){
-    let div=document.getElementById('finalizar')
+    while(div.childElementCount!=0){
+        div.removeChild(div.firstChild)
+    }
+
+}
+
+function criarParagrafo(texto,div){
     let add=document.createElement('p')
     add.textContent=texto
     div.appendChild(add)
