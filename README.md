@@ -124,5 +124,24 @@
         <li><p> Aula 1 - Criação de um landing pae responsiva com html e css. </p></li>
       </ul>
     </section>  
+    <section>
+      <h2> Exercicio - curso em vídeo </h2>
+      <ul>
+        <li><p> Exercicio 1 - Hora do dia. </p></li>
+        <li><p> Exercicio 2 - Verificador de idade. </p></li>
+        <li><p> Exercicio 3 - Vamos contar. </p></li>
+        <li><p> Exercicio 4 - Tabuada. </p></li>
+        <li><p> Exercicio 5 - Analizador de números.</p></li>
+      </ul>
+    </section>
+    <section>
+      <h2> Mini projetos </h2>
+      <ul>
+        <li><p> Exercicio 1 - IMC. </p></li>
+        <li><p> Exercicio 2 - Lampâda. </p></li>
+        <li><p> Exercicio 3 - Semafaro. </p></li>
+        <li><p> Exercicio 4 - Slideshow. </p></li>
+      </ul>
+    </section>
   </article>
 </body>
