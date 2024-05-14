@@ -121,7 +121,7 @@
     <section>
       <h2>Seção 34 - Criação de landing page</h2>
       <ul>
-        <li><p> Aula 1 - Criação de um landing pae responsiva com html e css. </p></li>
+        <li><p> Aula 1 - Criação de um landing page responsiva com html e css. </p></li>
       </ul>
     </section>  
     <section>
