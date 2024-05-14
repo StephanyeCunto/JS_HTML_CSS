@@ -141,6 +141,7 @@
         <li><p> Exercicio 2 - Lampâda. </p></li>
         <li><p> Exercicio 3 - Semafaro. </p></li>
         <li><p> Exercicio 4 - Slideshow. </p></li>
+        <li><p> Exercicio 5 - Drumkit. </p></li>
       </ul>
     </section>
   </article>
