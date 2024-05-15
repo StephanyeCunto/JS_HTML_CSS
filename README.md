@@ -142,6 +142,7 @@
         <li><p> Exercicio 3 - Semafaro. </p></li>
         <li><p> Exercicio 4 - Slideshow. </p></li>
         <li><p> Exercicio 5 - Drumkit. </p></li>
+        <li><p> Exercicio 6 - Crud. </p></li>
       </ul>
     </section>
   </article>
