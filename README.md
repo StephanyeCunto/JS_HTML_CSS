@@ -91,20 +91,31 @@
    <section>
      <h2> Seção 6 - JavaScript obejtos e prototypes (Avançado) </h2>
      <ul>
-       <li><p> Aula 1 - Revisão de objetos</p></lix>
-       <li><p> Aula 2 - Object.defineProperty() e Object.defineProperties()</p></li>
-       <li><p> Aula 3 - Getters e Setters</p></li>
-       <li><p> Aula 4 - Métodos úteis para objetos</p></li>
-       <li><p> Aula 5 - Prototypes</p></li>
-       <li><p> Aula 6 - Manipulando Prototypes</p></li>
-       <li><p> Aula 7 - Herança</p></li>
-       <li><p> Aula 8 - Exercício - Validando um CPF (Algoritmo)</p></li>
-       <li><p> Aula 9 - Exercício - Validando um CPF (Solução)</p></li>
-       <li><p> Aula 10 - Polimorfismo</p></li>
-       <li><p> Aula 11 - Factory Functions + Prototypes</p></li>
-       <li><p> Aula 12 - Objeto Map()</p></li>
+       <li><p> Aula 1 - Revisão de objetos.</p></lix>
+       <li><p> Aula 2 - Object.defineProperty() e Object.defineProperties().</p></li>
+       <li><p> Aula 3 - Getters e Setter.s</p></li>
+       <li><p> Aula 4 - Métodos úteis para objetos.</p></li>
+       <li><p> Aula 5 - Prototypes.</p></li>
+       <li><p> Aula 6 - Manipulando Prototypes.</p></li>
+       <li><p> Aula 7 - Herança.</p></li>
+       <li><p> Aula 8 - Exercício - Validando um CPF (Algoritmo).</p></li>
+       <li><p> Aula 9 - Exercício - Validando um CPF (Solução).</p></li>
+       <li><p> Aula 10 - Polimorfismo.</p></li>
+       <li><p> Aula 11 - Factory Functions + Prototypes.</p></li>
+       <li><p> Aula 12 - Objeto Map().</p></li>
      </ul>
    </section>
+    <section>
+      <h2>Seção 7 - JavaScript programação orientada a objetos - POO </h2>
+      <ul>
+        <li><p> Aula 1 - Criando classes.</p></li>
+        <li><p> Aula 2 - Getters e setters.</p></li>
+        <li><p> Aula 3 - Herança com classes.</p></li>
+        <li><p> Aula 4 - Métodos de instância e estática.</p></li>
+        <li><p> Aula 5 - Usando classes (validando CPF).</p></li>
+        <li><p> Aula 6 - Validando um formulário (usando classes).</p></li>
+      </ul>
+    </section>
    <section>
      <h2>Seção 33 - HTML e CSS básico</h2>
      <ul>
