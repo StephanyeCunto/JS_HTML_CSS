@@ -116,6 +116,17 @@
         <li><p> Aula 6 - Validando um formulário (usando classes).</p></li>
       </ul>
     </section>
+        <section>
+      <h2>Seção 8 - JavaScript assíncrono - Promises, ajax, fecth e async/await </h2>
+      <ul>
+        <li><p> Aula 1 - Promises.</p></li>
+        <li><p> Aula 2 - Métodos úteis para promises.</p></li>
+        <li><p> Aula 3 - Async/await.</p></li>
+        <li><p> Aula 4 - XMLHttpRequest(GET) + promises.</p></li>
+        <li><p> Aula 5 - Fetch API(GET).</p></li>
+        <li><p> Aula 6 - Fetch API + Axios(JSON).</p></li>
+      </ul>
+    </section>
    <section>
      <h2>Seção 33 - HTML e CSS básico</h2>
      <ul>
