@@ -127,6 +127,19 @@
         <li><p> Aula 6 - Fetch API + Axios(JSON).</p></li>
       </ul>
     </section>
+    <section>
+      <h2>Seção 9 - Javascript  tooling e ES6 Modules - Módulos </h2>
+      <ul>
+        <li><p> Aula 1 - Babel e "can i use..."</p></li>
+        <li><p> Aula 2 - Webpack (Boilerplate).</p></li>
+        <li><p> Aula 3 - Correção core-js (de v2 para v3).</p></li>
+        <li><p> Aula 4 - ES6 Modules - Import/Export.</p></li>
+        <li><p> Aula 5 - Nosso modelo antigo (agora com webpack).</p></li>
+        <li><p> Aula 6 - Criando um gerador de CPFs válidos.</p></li>
+        <li><p> Aula 7 - Criando um gerador de senhas.</p></li>
+        <li><p> Aula 8 - Core-js e regenerator-runtime.</p></li>
+      </ul>
+    </section>
    <section>
      <h2>Seção 33 - HTML e CSS básico</h2>
      <ul>
