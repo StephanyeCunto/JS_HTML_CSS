@@ -1,0 +1,66 @@
+body{
+    background-color: rgb(70,142,236);
+    font: normal 10pt Arial;
+}
+
+header{
+    color: white;
+    text-align: center;
+}
+
+section{
+    background-color: white;
+    border-radius: 10px;
+    max-width: 500px; 
+    margin:0 auto;
+    box-shadow: 5px 5px 10px rgb(0,0,0,0.363);
+}
+
+div{
+    text-align: center;
+    padding: 8px;
+    display: block;
+}
+
+p, input{
+    font-size: 12pt;
+}
+
+input[type="button"]{
+    background-color: rgb(70,142,236);
+    color: white;
+    border: 0;
+    cursor: pointer;
+    width: 100px;
+    height: 30px;
+    border-radius: 10px;
+}
+
+input[type="button"]:hover{
+    background-color: rgb(9, 64, 136);
+}
+
+footer{
+    color: white;
+    text-align: center;
+    font-size: italic;
+}
+
+#foto{
+    width: 320px;
+    height: 320px;
+}
+
+@media(max-width: 350px){
+     #foto{
+        width: 200px;
+        height: 200px;
+    }
+}
+
+@media(max-width: 210px){
+    #foto{
+        max-width: 100px;
+        max-height: 100px;
+    }
+}
