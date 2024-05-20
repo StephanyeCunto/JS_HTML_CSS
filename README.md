@@ -166,7 +166,12 @@
           <li><p>Exercício 001 - Olá mundo!</p></li>
           <li><p>Exercício 002 - Parágrafos e Quebras.</p></li>
           <li><p>Exercício 003 - Símbolos e Emoji.</p></li>
-          <li>Exercício 004 - Imagem.</li>
+          <li><p>Exercício 004 - Imagem.</p></li>
+          <li><p>Exercício 005 - Mudando o favicon.</p></li>
+          <li><p>Exercício 006 - Hierarquia de títulos.</p></li>
+          <li><p>Exercício 007 - Semântica.</p></li>
+          <li><p>Exercício 008 - Formatação de texto.</p></li>
+          <li><p>Exercício 009 - Formatação de texto.</p></li>
       </ul>
       <h3> Módulo 2 - Deixando as coisas mais bonitas.</h3>
       <ul>
