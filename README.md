@@ -160,7 +160,33 @@
       </ul>
     </section>  
     <section>
-      <h2> Exercicio - curso em vídeo </h2>
+      <h2> Curso em vídeo - HTML 5 e CSS 3</h2>
+      <h3> Modulo 1 - Primeiros passos HTML+CSS.</h3>
+      <ul>
+          <li><p>Exercício 001 - Olá mundo!</p></li>
+          <li><p>Exercício 002 - Parágrafos e Quebras.</p></li>
+          <li><p>Exercício 003 - Símbolos e Emoji.</p></li>
+          <li>Exercício 004 - Imagem.</li>
+      </ul>
+      <h3> Módulo 2 - Deixando as coisas mais bonitas.</h3>
+      <ul>
+          <li></li>
+      </ul>
+      <h3> Módulo 3 - Colocando um protótipo no ar.</h3>
+      <ul>
+          <li></li>
+      </ul>
+      <h3> Módulo 4 - Aprofundando os conhecimentos.</h3>
+      <ul>
+          <li></li>
+      </ul>
+      <h3> Módulo 5 - Novas tecnologias.</h3>
+      <ul>
+          <li></li>
+      </ul>
+    </section>
+    <section>
+      <h2>  Curso em vídeo - JS </h2>
       <ul>
         <li><p> Exercicio 1 - Hora do dia. </p></li>
         <li><p> Exercicio 2 - Verificador de idade. </p></li>
