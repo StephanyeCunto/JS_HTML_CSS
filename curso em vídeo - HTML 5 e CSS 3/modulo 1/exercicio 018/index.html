@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Áudio</title>
+</head>
+<body>
+   <h1>Reproduzindo Aúdio</h1>
+   <p>Vamos aprender a reproduzir áudios em HTML5.</p> 
+   <audio src="midia/clap.wav" controls autoplay></audio>
+   <!--MP3 WAV OGG-->
+
+   <audio preload="metadata" controls loop>
+        <source src="midia/hihat.wav" type="audio/wav">
+        <source src="midia/kick.wav" type="audio/wav">
+        <source src="midia/openhat.wav" type="audio/wav">
+        <p>Infelizmente seu navegador não é compátivel com áudio <a href="midia/hihat.wav">Clique aqui para baixar o arquivo.</a></p>
+   </audio>
+   <!-- mp3 type="audio/mpeg" ogg type="audio/ogg" wav type="audio/wav"-->
+</body>
+</html>
