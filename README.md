@@ -178,7 +178,10 @@
           <li><p>Exercício 013 - Link e Âncora.</p></li>
           <li><p>Exercício 014 - Link Externo.</p></li>
           <li><p>Exercício 015 - Link para download.</p></li>
-          <li><p>Exercício 016 - Desafio: Página estática com HTML, quem sou eu</p></li>    
+          <li><p>Exercício 016 - Desafio: Página estática com HTML, quem sou eu.</p></li>    
+          <li><p>Exercício 017 - Imagens Dinâmicas.</p></li>   
+          <li><p>Exercício 018 - Áudio.</p></li> 
+          <li><p>Exercício 019 - Vídeo.</p></li>
       </ul>
       <h3> Módulo 2 - Deixando as coisas mais bonitas.</h3>
       <ul>
