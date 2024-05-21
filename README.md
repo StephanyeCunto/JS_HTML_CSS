@@ -177,7 +177,7 @@
           <li><p>Exercício 012 - Listas mistas e de definições.</p></li>
           <li><p>Exercício 013 - Link e Âncora.</p></li>
           <li><p>Exercício 014 - Link Externo.</p></li>
-          <li><p>Exercício 015 - Link para download</p></li>
+          <li><p>Exercício 015 - Link para download.</p></li>
       </ul>
       <h3> Módulo 2 - Deixando as coisas mais bonitas.</h3>
       <ul>
@@ -199,22 +199,22 @@
     <section>
       <h2>  Curso em vídeo - JS </h2>
       <ul>
-        <li><p> Exercicio 1 - Hora do dia. </p></li>
-        <li><p> Exercicio 2 - Verificador de idade. </p></li>
-        <li><p> Exercicio 3 - Vamos contar. </p></li>
-        <li><p> Exercicio 4 - Tabuada. </p></li>
-        <li><p> Exercicio 5 - Analizador de números.</p></li>
+        <li><p> Exercício 1 - Hora do dia. </p></li>
+        <li><p> Exercício 2 - Verificador de idade. </p></li>
+        <li><p> Exercício 3 - Vamos contar. </p></li>
+        <li><p> Exercício 4 - Tabuada. </p></li>
+        <li><p> Exercício 5 - Analizador de números.</p></li>
       </ul>
     </section>
     <section>
       <h2> Mini projetos </h2>
       <ul>
-        <li><p> Exercicio 1 - IMC. </p></li>
-        <li><p> Exercicio 2 - Lampâda. </p></li>
-        <li><p> Exercicio 3 - Semafaro. </p></li>
-        <li><p> Exercicio 4 - Slideshow. </p></li>
-        <li><p> Exercicio 5 - Drumkit. </p></li>
-        <li><p> Exercicio 6 - Crud. </p></li>
+        <li><p> Exercício 1 - IMC. </p></li>
+        <li><p> Exercício 2 - Lampâda. </p></li>
+        <li><p> Exercício 3 - Semafaro. </p></li>
+        <li><p> Exercício 4 - Slideshow. </p></li>
+        <li><p> Exercício 5 - Drumkit. </p></li>
+        <li><p> Exercício 6 - Crud. </p></li>
       </ul>
     </section>
   </article>
