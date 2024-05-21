@@ -184,6 +184,15 @@
           <li><p>Exercício 020 - Estilos CSS inline.</p></li>
           <li><p>Exercício 021 - Estilos CSS Locais / Internos.</p></li>
           <li><p>Exercício 022 - Estilos CSS externos.</p></li>
+          <li><p>Desafio 001 - Desafio das Mensagens.</p></li>
+          <li><p>Desafio 002 - Desafio das Imagens.</p></li>
+          <li><p>Desafio 003 - Desafio Mapa Mundi.</p></li>
+          <li><p>Desafio 004 - Desafio dos Emojis.</p></li>
+          <li><p>Desafio 005 - Desafio social.</p></li>
+          <li><p>Desafio 006 - Desafio das Tags.</p></li>
+          <li><p>Desafio 007 - Desafio imagem flexivel.</p></li>
+          <li><p>Desafio 008 - Desafio navegação.</p></li>
+          <li><p>Desafio 009 - Desafio vídeos.</p></li>
       </ul>
       <h3> Módulo 2 - Deixando as coisas mais bonitas.</h3>
       <ul>
