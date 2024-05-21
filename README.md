@@ -172,6 +172,12 @@
           <li><p>Exercício 007 - Semântica.</p></li>
           <li><p>Exercício 008 - Formatação de texto.</p></li>
           <li><p>Exercício 009 - Formatação de texto.</p></li>
+          <li><p>Exercício 010 - Citações e códigos.</p></li>
+          <li><p>Exercício 011 - Listas OL e UL.</p></li>
+          <li><p>Exercício 012 - Listas mistas e de definições.</p></li>
+          <li><p>Exercício 013 - Link e Âncora.</p></li>
+          <li><p>Exercício 014 - Link Externo.</p></li>
+          <li><p>Exercício 015 - Link para download</p></li>
       </ul>
       <h3> Módulo 2 - Deixando as coisas mais bonitas.</h3>
       <ul>
