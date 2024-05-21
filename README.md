@@ -4,7 +4,6 @@
   <header>
     <h3>Repositório criado para acompanhar um curso de Js.</h3> 
   </header>
-
   <article>
     <section>
       <h2>Seção 1 - Hello World</h2>
@@ -182,6 +181,9 @@
           <li><p>Exercício 017 - Imagens Dinâmicas.</p></li>   
           <li><p>Exercício 018 - Áudio.</p></li> 
           <li><p>Exercício 019 - Vídeo.</p></li>
+          <li><p>Exercício 020 - Estilos CSS inline.</p></li>
+          <li><p>Exercício 021 - Estilos CSS Locais / Internos.</p></li>
+          <li><p>Exercício 022 - Estilos CSS externos.</p></li>
       </ul>
       <h3> Módulo 2 - Deixando as coisas mais bonitas.</h3>
       <ul>
