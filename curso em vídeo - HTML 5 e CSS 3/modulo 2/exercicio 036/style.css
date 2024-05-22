@@ -1,0 +1,26 @@
+@charset "UTF-8";
+
+h1{
+    height: 300px;
+    width: 300px;
+    background-color: lightgray;
+    border-width: 10px;
+    border-style: solid;
+    border-color: darkslategray;
+    padding-top: 10px;
+    padding-right: 10px;
+    padding-bottom: 10px;
+    padding-left: 10px;
+}
+
+a{
+   /* border: 5px solid red;*/
+   /* border: 5px dashed red;*/
+   /* border: 5px dotted red;*/
+   /* border: 5px double red;*/
+   border: 5px groove red;
+   padding-top: 10px;
+   padding-right: 10px;
+   padding-bottom: 10px;
+   padding-left: 10px;
+}
