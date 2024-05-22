@@ -207,6 +207,10 @@
         <li><p>Exercício 031 - Alinhamento de textos com CSS.</p></li>
         <li><p>Exercício 032 - Usando o id com CSS.</p></li>
         <li><p>Exercício 033 - Diferenças entre id e class.</p></li>
+        <li><p>Exercício 034 - Pseudo-classes em CSS.</p></li>
+        <li><p>Exercício 035 - Pseudo-elementos em CSS.</p></li>
+        <li><p>Exercício 036 - Modelo de Caixas.</p></li>
+        <li><p>Exercício 037 - Modelo de Caixas.</p></li>
       </ul>
       <h3> Módulo 3 - Colocando um protótipo no ar.</h3>
       <ul>
