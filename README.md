@@ -200,6 +200,13 @@
         <li><p>Exercício 024 - Criar degradê em CSS.</p></li>
         <li><p>Exercício 025 - Criando algo um exemplo real.</p></li>
         <li><p>Exercício 026 - Família de fonte com CSS.</p></li>
+        <li><p>Exercício 027 - Tamanho de fonte e suas medidas.</p></li>
+        <li><p>Exercício 028 - Peso, estilo e shorthand font.</p></li>
+        <li><p>Exercício 029 - Usando Google Fonts.</p></li>
+        <li><p>Exercício 030 - Fontes Externas.</p></li>
+        <li><p>Exercício 031 - Alinhamento de textos com CSS.</p></li>
+        <li><p>Exercício 032 - Usando o id com CSS.</p></li>
+        <li><p>Exercício 033 - Diferenças entre id e class.</p></li>
       </ul>
       <h3> Módulo 3 - Colocando um protótipo no ar.</h3>
       <ul>
