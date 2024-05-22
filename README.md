@@ -196,19 +196,18 @@
       </ul>
       <h3> Módulo 2 - Deixando as coisas mais bonitas.</h3>
       <ul>
-          <li></li>
+        <li><p>ExercÍcio 023 - Cores em CSS.</p></li>
+        <li><p>Exercício 024 - Criar degradê em CSS.</p></li>
+        <li><p>Exercício 025 - Criando algo um exemplo real.</p></li>
+        <li><p>Exercício 026 - Família de fonte com CSS.</p></li>
       </ul>
       <h3> Módulo 3 - Colocando um protótipo no ar.</h3>
       <ul>
-          <li></li>
+          <li><p></p></li>
       </ul>
       <h3> Módulo 4 - Aprofundando os conhecimentos.</h3>
       <ul>
-          <li></li>
-      </ul>
-      <h3> Módulo 5 - Novas tecnologias.</h3>
-      <ul>
-          <li></li>
+          <li><p></p></li>
       </ul>
     </section>
     <section>
