@@ -211,6 +211,10 @@
         <li><p>Exercício 035 - Pseudo-elementos em CSS.</p></li>
         <li><p>Exercício 036 - Modelo de Caixas.</p></li>
         <li><p>Exercício 037 - Modelo de Caixas.</p></li>
+        <li><p>Exercício 038 - Sombras nas Caixas.</p></li>
+        <li><p>Exercício 039 - Caixas com vértices arredondados.</p></li>
+        <li><p>Exercício 040 - Bordas decoradas.</p></li>
+        <li><p>Exercício 041 - Criando um projeton a partir do zero.</p></li>
       </ul>
       <h3> Módulo 3 - Colocando um protótipo no ar.</h3>
       <ul>
