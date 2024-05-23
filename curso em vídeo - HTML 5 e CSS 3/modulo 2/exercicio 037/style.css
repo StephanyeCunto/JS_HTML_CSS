@@ -1,0 +1,22 @@
+@charset "UTF-8";
+
+h1{
+    height: 300px;
+    width: 300px;
+    background-color: lightgray;
+    border: 10px solid darkgray;
+    padding: 10px;
+    outline: 5px dashed yellow;
+    margin: 20px auto 40px auto;
+    /*margin:auto; cetraliza div*/
+}
+
+a{
+   /* border: 5px solid red;*/
+   /* border: 5px dashed red;*/
+   /* border: 5px dotted red;*/
+   /* border: 5px double red;*/
+   border: 5px groove red;
+   padding: 10px;
+   display: inline-block;
+}
