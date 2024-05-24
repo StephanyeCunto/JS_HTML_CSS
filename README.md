@@ -215,6 +215,9 @@
         <li><p>Exercício 039 - Caixas com vértices arredondados.</p></li>
         <li><p>Exercício 040 - Bordas decoradas.</p></li>
         <li><p>Exercício 041 - Criando um projeton a partir do zero.</p></li>
+        <li><p>Desafio 010 - Desafio Site do Android.</p></li>
+        <li><p>Desafio 011 - Desafio Do Astronauta.</p></li>
+        <li><p>Desafio 012 - Desafio Do Cordel.</p></li>
       </ul>
       <h3> Módulo 3 - Colocando um protótipo no ar.</h3>
       <ul>
