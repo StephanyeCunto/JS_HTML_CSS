@@ -227,6 +227,7 @@
         <li><p>Exercício 045 - Mudando o tamanho da imagem de fundo.</p></li>
         <li><p>Exercício 046 - Background-attachment e shorthand.</p></li>
         <li><p>Exercício 047 - Centralização vertical de caixas.</p></li>
+        <li><p>Exercício 048 - Projeto cordel.</p></li>
       </ul>
       <h3> Módulo 4 - Aprofundando os conhecimentos.</h3>
       <ul>
