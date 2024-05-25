@@ -221,7 +221,12 @@
       </ul>
       <h3> Módulo 3 - Colocando um protótipo no ar.</h3>
       <ul>
-          <li><p></p></li>
+        <li><p>Exercício 042 - Colocando uma imagem de fundo.</p></li>
+        <li><p>Exercício 043 - Imagnes que se repetem no fundo.</p></li>
+        <li><p>Exercício 044 - Configurando a posição da imagem no fundo.</p></li>
+        <li><p>Exercício 045 - Mudando o tamanho da imagem de fundo.</p></li>
+        <li><p>Exercício 046 - Background-attachment e shorthand.</p></li>
+        <li><p>Exercício 047 - Centralização vertical de caixas.</p></li>
       </ul>
       <h3> Módulo 4 - Aprofundando os conhecimentos.</h3>
       <ul>
