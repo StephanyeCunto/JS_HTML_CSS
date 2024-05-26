@@ -232,6 +232,15 @@
         <li><p>Exercício 050 - Alinhando conteúdo em tavela.</p></li>
         <li><p>Exercício 051 - Trabalhando com tabelas grandes.</p></li>
         <li><p>Exercício 052 - Caption e Esocopo de títulos em tabelas.</p></li>
+        <li><p>Exercício 053 - Efeito Zebrado na tabela.</p></li>
+        <li><p>Exercício 054 - Cabeçario fixo em tabela.</p></li>
+        <li><p>Exercício 055 - Mesclagem de células.</p></li>
+        <li><p>Exercício 056 - Criando tabelas.</p></li>
+        <li><p>Exercício 057 - Tabela completa.</p></li>
+        <li><p>Exercício 058 - Escopos de grupo.</p></li>
+        <li><p>Exercício 059 - Criando tabelas.</p></li>
+        <li><p>Exercício 060 - Agrupando Colunas com Colgroup.</p></li>
+        <li><p>Exercício 061 - Tabela Responsiva.</p></li>
       </ul>
       <h3> Módulo 4 - Aprofundando os conhecimentos.</h3>
       <ul>
