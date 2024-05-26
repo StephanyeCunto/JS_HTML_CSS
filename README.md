@@ -228,6 +228,10 @@
         <li><p>Exercício 046 - Background-attachment e shorthand.</p></li>
         <li><p>Exercício 047 - Centralização vertical de caixas.</p></li>
         <li><p>Exercício 048 - Projeto cordel.</p></li>
+        <li><p>Exercício 049 - Primeira tabela.</p></li>
+        <li><p>Exercício 050 - Alinhando conteúdo em tavela.</p></li>
+        <li><p>Exercício 051 - Trabalhando com tabelas grandes.</p></li>
+        <li><p>Exercício 052 - Caption e Esocopo de títulos em tabelas.</p></li>
       </ul>
       <h3> Módulo 4 - Aprofundando os conhecimentos.</h3>
       <ul>
