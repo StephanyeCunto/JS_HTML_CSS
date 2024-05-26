@@ -247,6 +247,7 @@
         <li><p>Exercício 062 - Iframe.</p></li>
         <li><p>Exercício 063 - Configurando iframe.</p></li>
         <li><p>Exercício 064 - Conteúdo local no iframe.</p></li>
+        <li><p>Exercício 065 - Navegação no iframe.</p></li>
       </ul>
     </section>
     <section>
