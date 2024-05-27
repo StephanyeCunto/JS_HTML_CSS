@@ -251,6 +251,11 @@
         <li><p>Exercício 066 - Conteúdo no iframe.</p></li>
         <li><p>Exercício 067 - Tornando iframes mais seguros.</p></li>
         <li><p>Exercício 068 - Dicas para iframes melhores.</p></li>
+        <li><p>Exercício 069 - Redes sociais.</p></li>
+        <li><p>Exercício 070 - Criando formulários.</p></li>
+        <li><p>Exercício 071 - Label.</p></li>
+        <li><p>Exercício 072 - Criando caixas de texto e senha.</p></li>
+        <li><p>Exercício 073 - Formulário com telefone e e-mail.</p></li>
       </ul>
     </section>
     <section>
