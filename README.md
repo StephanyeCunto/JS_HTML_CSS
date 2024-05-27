@@ -248,6 +248,9 @@
         <li><p>Exercício 063 - Configurando iframe.</p></li>
         <li><p>Exercício 064 - Conteúdo local no iframe.</p></li>
         <li><p>Exercício 065 - Navegação no iframe.</p></li>
+        <li><p>Exercício 066 - Conteúdo no iframe.</p></li>
+        <li><p>Exercício 067 - Tornando iframes mais seguros.</p></li>
+        <li><p>Exercício 068 - Dicas para iframes melhores.</p></li>
       </ul>
     </section>
     <section>
