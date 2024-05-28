@@ -255,7 +255,13 @@
         <li><p>Exercício 070 - Criando formulários.</p></li>
         <li><p>Exercício 071 - Label.</p></li>
         <li><p>Exercício 072 - Criando caixas de texto e senha.</p></li>
-        <li><p>Exercício 073 - Formulário com telefone e e-mail.</p></li>
+        <li><p>Exercício 073 - Formulário com data.</p></li>
+        <li><p>Exercício 074 - Formulário com telefone e e-mail.</p></li>
+        <li><p>Exercício 075 - Checkbox e Radio button.</p></li>
+        <li><p>Exercício 076 - Elementos color, range e file.</p></li>
+        <li><p>Exercício 077 - Select, datalist e textarea.</p></li>
+        <li><p>Exercício 078 - Elemento output em formulários.</p></li>
+        <li><p>Exercício 079 - Media Queries.</p></li>
       </ul>
     </section>
     <section>
