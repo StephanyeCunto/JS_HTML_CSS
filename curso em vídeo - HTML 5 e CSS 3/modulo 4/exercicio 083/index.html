@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Media Query</title>
+    <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
+    <link rel="stylesheet" href="assets/css/style.css">
+    <link rel="stylesheet" href="assets/css/mediaquery.css">
+</head>
+<body onresize="mudouTamanho()">
+    <header>
+        <h1>Meu site</h1>
+        <i id="burguer" class="material-icons" onclick="clickMenu()">menu</i>
+        <menu id="itens">
+            <ul>
+                <li><a href="#">Opção 1</a></li>
+                <li><a href="#">Opção 2</a></li>
+                <li><a href="#">Opção 3</a></li>
+                <li><a href="#">Opção 4</a></li>
+                <li><a href="#">Opção 5</a></li>
+            </ul>
+        </menu>
+    </header>
+    <main>
+        <article>
+            <h2>Testando Media Queries</h2>
+            <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Quo totam et corrupti. Dolorum porro culpa quaerat sequi, beatae neque sed cum voluptas, tempore, libero hic ipsum accusamus esse eveniet doloribus!</p>
+            <p>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Doloribus, labore nemo facere perferendis dolores, praesentium quibusdam maiores culpa et at possimus! Modi, nihil ab reiciendis vel deserunt tenetur obcaecati aspernatur?</p>
+            <p>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Magnam earum consectetur doloremque beatae dolorem officiis nobis. Natus illo, dignissimos praesentium quidem nobis impedit! Optio fuga magni omnis deserunt ipsum fugit.</p>
+        </article>
+    </main>
+    <script>
+        function clickMenu(){
+            if(itens.style.display == 'none'){
+                itens.style.display = 'block'
+            }else{
+                itens.style.display = 'none'
+            }
+        }
+
+        function mudouTamanho(){
+            if(window.innerWidth>=768){
+                itens.style.display='block'
+            }else{
+                itens.style.display='none'
+            }
+        }
+    </script>
+</body>
+</html>
