@@ -262,6 +262,11 @@
         <li><p>Exercício 077 - Select, datalist e textarea.</p></li>
         <li><p>Exercício 078 - Elemento output em formulários.</p></li>
         <li><p>Exercício 079 - Media Queries.</p></li>
+        <li><p>Exercício 080 - Múltiplas Media Features.</p></li>
+        <li><p>Exercício 081 - Reunindo tudo em um arquivo CSS.</p></li>
+        <li><p>Exercício 082 - Construindo um site Mobile First.</p></li>
+        <li><p>Exercício 083 - Menu responsivo.</p></li>
+        <li><p>Exercício 084 - Tela de login.</p></li>
       </ul>
     </section>
     <section>
