@@ -268,6 +268,8 @@
         <li><p>Exercício 083 - Menu responsivo.</p></li>
         <li><p>Exercício 084 - Tela de login.</p></li>
       </ul>
+      <h3> Módulo 5 - Novas tecnologias.</h3>
+      <li><p>Exercício 089 - Primeiros passos com flexbox.</p></li>
     </section>
     <section>
       <h2>  Curso em vídeo - JS </h2>
