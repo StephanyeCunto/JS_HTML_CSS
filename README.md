@@ -5,16 +5,16 @@
         <h1>Repositório criado para acompanhar meus estudos em JS, HTML e CSS.</h1>
         <ul>
             <li>
-                <h3><a href="js">Curso de JS.</a></h3>
+                <h3><a href="https://github.com/StephanyeCunto/JS_HTML_CSS/tree/main/curso%20JS">Curso de JS.</a></h3>
             </li>
             <li>
-                <h3><a href="cursoEmVideoJS">Curso em vídeo - JS.</a></h3>
+                <h3><a href="https://github.com/StephanyeCunto/JS_HTML_CSS/tree/main/curso%20em%20vídeo%20-%20JS%20Básico">Curso em vídeo - JS.</a></h3>
             </li>
             <li>
-                <h3><a href="cursoEmVideoHTML">Curso em vídeo - HTML 5 e CSS 3.</a></h3>
+                <h3><a href="https://github.com/StephanyeCunto/JS_HTML_CSS/tree/main/curso%20em%20vídeo%20-%20HTML%205%20e%20CSS%203">Curso em vídeo - HTML 5 e CSS 3.</a></h3>
             </li>
             <li>
-                <h3><a href="miniProjetos">Mini projetos com HTML 5, CSS 3 E JS.</a></h3>
+                <h3><a href="https://github.com/StephanyeCunto/JS_HTML_CSS/tree/main/mini%20projetos">Mini projetos com HTML 5, CSS 3 E JS.</a></h3>
             </li>
         </ul>
     </header>
