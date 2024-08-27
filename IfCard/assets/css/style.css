@@ -1,18 +1,16 @@
-/* Cores */
-:root {
-    --primary-color: #138F31; /* Verde escuro */
-    --secondary-color: #34BB55; /* Verde claro */
-    --highlight-color: #498a4180; /* Verde suave */
-    --highlight-hover-color: #ffffff00; /* Transparente */
-    --background-color: #f4f4f4; /* Cinza claro */
-    --text-color: #333; /* Cinza escuro */
-    --white-color: #fff; /* Branco */
-    --shadow-color: rgba(0, 0, 0, 0.1); /* Sombra leve */
-    --overlay-color: rgba(0, 0, 0, 0.5); /* Sombra escura */
-    --hover-color: #268a3f; /* Verde hover */
+:root {    
+    --primary-color: #138F31; 
+    --secondary-color: #34BB55; 
+    --highlight-color: #498a4180; 
+    --highlight-hover-color: #ffffff00; 
+    --background-color: #f4f4f4; 
+    --text-color: #333; 
+    --white-color: #fff; 
+    --shadow-color: rgba(0, 0, 0, 0.1); 
+    --overlay-color: rgba(0, 0, 0, 0.5); 
+    --hover-color: #268a3f; 
 }
 
-/* Estilo base */
 body {
     font-family: Arial, sans-serif;
     color: var(--text-color);
@@ -21,7 +19,6 @@ body {
     background-color: var(--background-color);
 }
 
-/* Header */
 header {
     background-color: var(--primary-color);
     padding: 15px 20px;
@@ -39,6 +36,11 @@ header {
 header .logo h1 {
     margin: 0;
     font-size: 1.5em;
+}
+
+a#IFcard{
+    color: var(--white-color);
+    text-decoration: none;
 }
 
 nav {
@@ -73,8 +75,23 @@ nav ul li a:hover {
     color: var(--white-color);
 }
 
-/* Responsividade do Menu */
 @media (max-width: 768px) {
+    header .logo h1 {
+        display: none;
+    }
+    
+    .menu-toggle.open{
+        height: 100vh;
+    }
+
+    nav{
+        flex-grow: 3;
+    }
+
+    .cta-header{
+        flex-grow: 1;
+    }
+
     nav ul {
         flex-direction: column;
         background-color: var(--primary-color);
@@ -94,7 +111,7 @@ nav ul li a:hover {
 
     nav ul li {
         display: block;
-        margin: 10px 0;
+        margin-top: 7vh;
     }
 
     nav ul li a {
@@ -112,7 +129,7 @@ nav ul li a:hover {
         width: 25px;
         height: 3px;
         background-color: var(--white-color);
-        margin: 5px 0;
+        margin: 5px 0 0 0;
         transition: all 0.3s ease;
     }
 
@@ -127,17 +144,36 @@ nav ul li a:hover {
     .menu-toggle.open span:nth-child(3) {
         transform: rotate(-45deg) translate(5px, -5px);
     }
+
+    #contact {
+        padding: 60px 20px;
+        text-align: center;
+        width: 80vw;
+    }
+    
+    #contact h2 {
+        font-size: 2em;
+        margin-bottom: 20px;
+    }
+    
+    #contact p {
+        font-size: 1.2em;
+        margin-bottom: 40px;
+    }
+    
+    #contact form {
+        margin: 0 auto;
+    }
 }
 
-/* Hero Section */
 #hero {
     background-color: var(--secondary-color);
     color: var(--white-color);
     text-align: center;
     padding: 100px 20px;
-    background-image: url('background.jpg'); /* Imagem de fundo */
+   /* background-image: url('background.jpg');
     background-size: cover;
-    background-position: center;
+    background-position: center;*/
     position: relative;
 }
 
@@ -148,7 +184,7 @@ nav ul li a:hover {
     left: 0;
     right: 0;
     bottom: 0;
-    background: var(--overlay-color); /* Sombra escura */
+    background: var(--overlay-color); 
 }
 
 #hero .hero-content {
@@ -180,7 +216,6 @@ nav ul li a:hover {
     background-color: var(--hover-color);
 }
 
-/* Funcionalidades */
 #features {
     padding: 60px 20px;
     text-align: center;
@@ -201,10 +236,15 @@ nav ul li a:hover {
 .feature-cards .card {
     background-color: var(--white-color);
     padding: 20px;
-    border-radius: 5px;
-    box-shadow: 0 2px 4px var(--shadow-color);
+    border-radius: 10px;
+    box-shadow: 0 8px 16px var(--shadow-color);
     width: 300px;
     text-align: center;
+    transition: transform 0.3s ease, box-shadow 0.3s ease;
+}
+
+.card:hover {
+    transform: translateY(-10px);
 }
 
 .feature-cards .card img {
@@ -221,7 +261,6 @@ nav ul li a:hover {
     font-size: 1em;
 }
 
-/* Seções Sobre e Depoimentos */
 #about, #testimonials {
     padding: 60px 20px;
     text-align: center;
@@ -265,37 +304,36 @@ nav ul li a:hover {
     outline: 0;
     transition: all  .2s ease;
     text-decoration: none;
-  }
+}
   
-  .playstore-button:hover {
+.playstore-button:hover {
     background-color: transparent;
     color: rgba(0, 0, 0, 1);
-  }
+}
   
-  .icon {
+.icon {
     height: 1.5rem;
     width: 1.5rem;
-  }
+}
   
-  .texts {
+.texts {
     margin-left: 1rem;
     display: flex;
     flex-direction: column;
     align-items: flex-start;
     line-height: 1;
-  }
+}
   
-  .text-1 {
+.text-1 {
     margin-bottom: 0.25rem;
     font-size: 0.75rem;
     line-height: 1rem;
-  }
+}
   
-  .text-2 {
+.text-2 {
     font-weight: 600;
-  }
+}
 
-/* Depoimentos */
 .testimonial-cards {
     display: flex;
     justify-content: center;
@@ -323,7 +361,6 @@ nav ul li a:hover {
     margin: 0;
 }
 
-/* Seção de Contato */
 #contact {
     padding: 60px 20px;
     text-align: center;
@@ -367,7 +404,6 @@ nav ul li a:hover {
     background-color: var(--secondary-color);
 }
 
-/* Footer */
 footer {
     background-color: var(--primary-color);
     color: var(--white-color);
